@@ -109,7 +109,7 @@ while True:
         simulate_drive(current_vehicle)
 
     elif choice == "3":
-        print("Cảm ơn bạn đã sử dụng hệ thống!")
+        print("Cảm ơn bạn đã sử dụng hệ thống!" )
         break
 
     else:
